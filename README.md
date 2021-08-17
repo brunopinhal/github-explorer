@@ -23,12 +23,12 @@ ReactJs - Github Explorer
 ## About ℹ️
 Github Explorer is a app to to list and detail your favorites Github repositories.
 
-This web app connect to the Github API and search for the user/repository you input and list all the issues openned for your favorites repositories.
+This web app connects Github API and let you search for the user/repository name and list all the issues openned for your favorites repositories.
 
 It was developed during the GoStack Bootcamp.
 
 ## Usage ⚙️
-To run this API you will need some tools:
+To run this app you will need some tools:
 - [Git](https://git-scm.com/)
 - [Yarn](https://yarnpkg.com/)
 
